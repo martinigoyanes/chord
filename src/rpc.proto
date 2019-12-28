@@ -1,0 +1,19 @@
+syntax = "proto2";
+
+message Call {
+  required string name = 1;
+  required bytes args = 2;
+}
+
+message Return {
+  required bool success = 1;
+  required bytes value = 2;
+}
+
+message InvertArguments {
+  required bool v = 1;
+}
+
+message InvertReturnValue {
+  required bool notv = 1;
+}
