@@ -61,6 +61,7 @@ to the given key.
   **Commands:**
   
   There are two command that the Chord client must support: ‘Lookup’ and ‘PrintState’.
+  
   **‘Lookup’** takes as input an ASCII string (e.g., “Hello”). The Chord client takes this string,
   hashes it to a key in the identifier space, and performs a search for the node that is the successor
   to the key (i.e., the owner of the key). The Chord client then outputs that node’s identifier, IP
