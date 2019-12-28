@@ -72,24 +72,7 @@ to the given key.
   2. The node information for all nodes in the successor list
   3. The node information for all nodes in the finger table
   
-  >Lookup World
-  
-  < World 70 c 0 7 e c 1 8 e f 8 9 c 5 3 0 9 b b b 0 9 3 7 f 3 a 6 3 4 2 4 1 1 e 1 f d d
-  
-  < 7 d 1 5 7d 7c 0 0 0 ae 2 7db 1 4 6 5 7 5c 0 8ce 3 0d f 8 9 3d 3 a 6 4 1 2 8 . 8 . 1 2 6 . 6 3 2003
-  
-  >P ri n t S t a t e
-  
-  < S e l f 31836 aeaab22dc49555a97edb4c753881432e01d 1 2 8 . 8 . 1 2 6 . 6 3 2001
-  
-  < S u c c e s s o r [ 1 ] 6 f a 8c 5 7 3 3 6 6 2 8 a 7d 7 3 3 f 6 8 4dc 9 4 0 4 fbd 0 9 0 2 0 5 4 3 1 2 8 . 8 . 1 2 6 . 6 3   2002
-  
-  < S u c c e s s o r [ 2 ] 7 d 1 5 7d 7c 0 0 0 ae 2 7db 1 4 6 5 7 5c 0 8ce 3 0d f 8 9 3d 3 a 6 4 1 2 8 . 8 . 1 2 6 . 6 3 2003
-  
-  < Fi n g e r [ 1 ] 6 f a 8c 5 7 3 3 6 6 2 8 a 7d 7 3 3 f 6 8 4dc 9 4 0 4 fbd 0 9 0 2 0 5 4 3 1 2 8 . 8 . 1 2 6 . 6 3 2002
-  
-  < Fi n g e r [ 2 ] 6 f a 8c 5 7 3 3 6 6 2 8 a 7d 7 3 3 f 6 8 4dc 9 4 0 4 fbd 0 9 0 2 0 5 4 3 1 2 8 . 8 . 1 2 6 . 6 3 2002
-  
-  ...
+  ![GitHub Logo](/commands.png)
+
   
     
